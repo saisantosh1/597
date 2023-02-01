@@ -1,0 +1,58 @@
+body
+{
+    background-image: url(abcd.jpg);
+     background-repeat:no-repeat ;
+    background-size:cover;
+
+}
+header{
+    height: 100px;
+    color: whitesmoke;
+    
+
+}
+header img{
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-left: 150px;
+
+}
+
+
+nav ul li{
+    list-style: none;
+    border: 2px solid black;
+    float: left;
+    width: 225px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(229, 239, 239);
+    line-height: 50px;
+    
+    
+}
+nav ul li a{
+     text-decoration: none;
+     color: black;
+}
+nav ul li a:hover{
+    background-color: blueviolet;
+    color: azure;
+}
+nav ul li:hover{
+    background-color: blueviolet;
+}
+
+body{
+    background-color: red;
+}
+p{
+    background-color: beige;
+}
+h1{
+    color: rgb(173, 167, 159);
+}
